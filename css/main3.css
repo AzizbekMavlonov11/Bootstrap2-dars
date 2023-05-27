@@ -1,0 +1,179 @@
+.bad{
+    background: linear-gradient(90deg,peachpuff,orange);
+    border-color: orange yellow;
+    border-radius: 40px;
+}
+.bad1{
+    background: linear-gradient(90deg,purple,blueviolet);
+    border-radius: 40px;
+    border-color: purple;
+}
+.bad2{
+     background: linear-gradient(90deg,#17a2b8,blue);
+     border-radius: 40px;
+     border-color: blue;
+ }
+.bad3{
+      background: linear-gradient(90deg,aqua,grey);
+      border-radius: 40px;
+      border-color: aqua;
+  }
+.row1{
+    margin-left: 500px;
+    margin-top: 150px;
+}
+img{
+    width: 13px;
+    height: 8px;
+}
+.bir{
+    width: 30px;
+    height: 30px;
+    background-image: url("../rasmlar/fe.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    margin-top: 150px;
+}
+.bir2{
+    width: 30px;
+    height: 30px;
+    background-image: url("../rasmlar/a1.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.bir3{
+    width: 30px;
+    height: 30px;
+    background-image: url("../rasmlar/a3.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.bir4{
+    width: 30px;
+    height: 30px;
+    background-image: url("../rasmlar/a4.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.bir5{
+    width: 30px;
+    height: 30px;
+    background-image: url("../rasmlar/a5.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.bir6{
+    width: 30px;
+    height: 30px;
+    background-image: url("../rasmlar/a6.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.bir7{
+    width: 30px;
+    height: 30px;
+    background-image: url("../rasmlar/a7.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.bir8{
+    width: 30px;
+    height: 30px;
+    background-image: url("../rasmlar/a8.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.bir9{
+    width: 30px;
+    height: 30px;
+    background-image: url("../rasmlar/a9.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.bir10{
+    width: 30px;
+    height: 30px;
+    background-image: url("../rasmlar/10.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.bir11{
+    width: 30px;
+    height: 30px;
+    background-image: url("../rasmlar/11.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.bir12{
+    width: 30px;
+    height: 30px;
+    background-image: url("../rasmlar/12.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.bir13{
+    width: 30px;
+    height: 30px;
+    background-image: url("../rasmlar/13.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.pul{
+    border-radius: 20px;
+}
+.dol{
+    background-color: grey;
+}
+.pul2{
+    border: 1px solid grey;
+    color: grey;
+}
